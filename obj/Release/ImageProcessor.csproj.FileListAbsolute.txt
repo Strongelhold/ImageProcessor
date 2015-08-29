@@ -1,0 +1,15 @@
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.exe.config
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.exe
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.pdb
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.Imaging.dll
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.dll
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.Math.dll
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.Imaging.xml
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.xml
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.Math.xml
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.Form1.resources
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.Properties.Resources.resources
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.csproj.GenerateResource.Cache
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.exe
+C:\Users\Strongelhold\documents\visual studio 2012\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.pdb
